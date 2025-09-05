@@ -1,2 +1,3 @@
-* @eswaran-nexthop
-test1/* @brijow-nexthop
+*         @eswaran-nexthop @rabbit-nexthop
+/test1/** @brijow-nexthop
+
