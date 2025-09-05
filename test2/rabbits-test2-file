@@ -1,0 +1,7 @@
+This file was created by rabbit.
+
+Test: have brijow approve it (not a code owner),
+      and confirm the PR is blocked from merging.
+
+      Later, have eswaran approve it. This should
+      be sufficient to merge the PR.
