@@ -1,5 +1,0 @@
-This file was created by rabbit-nexthop.
-
-Although rabbit is a code owner of test3 content, 
-we should still require another code owner of test3
-to approve it.

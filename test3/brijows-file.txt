@@ -1,5 +1,0 @@
-This file was created by brijow.
-
-Brijow is not a code owner of test3 content, so approval from a code owner
-of test3 (e.g. rabbit-nexthop) is expected to be required for this change
-to merge.
